@@ -1,0 +1,54 @@
+{
+    "name": "Simple Vox",
+    "description": "Modern companies and startups need reliable phone service. SimpleVox is the only platform that works for smart companies.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1587-simple-vox.jpg",
+    "tags": [
+        "have api",
+        "phones",
+        "telecommunications",
+        "voip"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/simple-vox\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Simple Vox",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1587-simple-vox.jpg",
+            "humanURL": "http:\/\/www.simplevox.net\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/simple-vox-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.simplevox.net\/blog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/simplevox"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/simplevox"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/simplevox"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.simplevox.net\/"
+        }
+    ]
+}
